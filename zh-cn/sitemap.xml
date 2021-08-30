@@ -2,50 +2,50 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://youngeray.github.io/economic/</loc><lastmod>2021-08-28T16:07:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://youngeray.github.io/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://youngeray.github.io/categories/</loc><lastmod>2021-08-28T16:07:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/economic/</loc><lastmod>2021-08-28T16:07:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.com/categories/</loc><lastmod>2021-08-28T16:07:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://youngeray.github.io/en/categories/"
+                        href="https://example.com/en/categories/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="http://youngeray.github.io/fr/categories/"
+                        href="https://example.com/fr/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="http://youngeray.github.io/categories/"
+                    href="https://example.com/categories/"
                     /></url><url>
-            <loc>http://youngeray.github.io/posts/</loc><lastmod>2021-08-28T16:07:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://youngeray.github.io/tags/</loc><lastmod>2021-08-28T16:07:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/posts/</loc><lastmod>2021-08-28T16:07:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/</loc><lastmod>2021-08-28T16:07:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://youngeray.github.io/en/tags/"
+                        href="https://example.com/en/tags/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="http://youngeray.github.io/fr/tags/"
+                        href="https://example.com/fr/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="http://youngeray.github.io/tags/"
+                    href="https://example.com/tags/"
                     /></url><url>
-            <loc>http://youngeray.github.io/</loc><lastmod>2021-08-28T16:07:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/</loc><lastmod>2021-08-28T16:07:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://youngeray.github.io/en/"
+                        href="https://example.com/en/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="http://youngeray.github.io/fr/"
+                        href="https://example.com/fr/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="http://youngeray.github.io/"
+                    href="https://example.com/"
                     /></url><url>
-            <loc>http://youngeray.github.io/tags/%E7%BB%8F%E6%B5%8E/</loc><lastmod>2021-08-28T16:07:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://youngeray.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc><lastmod>2021-08-28T16:07:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://youngeray.github.io/tags/html/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://youngeray.github.io/tags/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://youngeray.github.io/categories/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://example.com/tags/%E7%BB%8F%E6%B5%8E/</loc><lastmod>2021-08-28T16:07:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc><lastmod>2021-08-28T16:07:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/html/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.com/tags/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.com/categories/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
